@@ -1,0 +1,11 @@
+2023-10-17 08:27:09,605 WARNING werkzeug  * Debugger is active!
+2023-10-17 08:27:09,609 INFO werkzeug  * Debugger PIN: 102-799-170
+2023-10-17 08:27:43,783 INFO root 
+        Error occured in execution of [D:\Machine Learning Projects\internship 3\exception.py] at 
+        try block line number:[15] and 
+        exception block line number:[18]
+        error_message:[we are testing our custom exception file]
+        
+2023-10-17 08:27:43,783 INFO root we are testing our logging module 
+2023-10-17 08:27:43,783 INFO werkzeug 127.0.0.1 - - [17/Oct/2023 08:27:43] "GET / HTTP/1.1" 200 -
+2023-10-17 08:27:43,880 INFO werkzeug 127.0.0.1 - - [17/Oct/2023 08:27:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -

@@ -1,0 +1,8 @@
+2023-10-17 08:25:55,581 WARNING werkzeug  * Debugger is active!
+2023-10-17 08:25:55,585 INFO werkzeug  * Debugger PIN: 102-799-170
+2023-10-17 08:26:11,063 INFO werkzeug 127.0.0.1 - - [17/Oct/2023 08:26:11] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2023-10-17 08:26:11,349 INFO werkzeug 127.0.0.1 - - [17/Oct/2023 08:26:11] "GET /?__debugger__=2023-10-17 08:27:09,035 INFO werkzeug  * Restarting with stat
+11,632 INFO werkzeug 127.0.0.1 - - [17/Oct/2023 08:26:11] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2023-10-17 08:26:11,694 INFO werkzeug 127.0.0.1 - - [17/Oct/2023 08:26:11] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2023-10-17 08:26:12,013 INFO werkzeug 127.0.0.1 - - [17/Oct/2023 08:26:12] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-10-17 08:27:08,989 INFO werkzeug  * Detected change in 'D:\\Machine Learning Projects\\internship 3\\src\\exception\\__init__.py', reloading
